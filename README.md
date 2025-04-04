@@ -38,7 +38,7 @@ Ensure you have the following installed before running the app:
 2. **Install Dependencies**
 
    ```sh
-   npm install
+   npm install vite@latest
    ```
 
 3. **Start the Development Server**
